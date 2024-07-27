@@ -7,8 +7,8 @@
 //Para fazer upload do codigo selecionar placa ESP32 Dev  .
 //.........................................................
 #include <RoboCore_Rocky.h> //Biblioteca Rocky.
-#include "BluetoothSerial.h" //Biblioteca bluetooth ESP32.
 #include <Arduino.h> //Biblioteca Arduino.
+#include "BluetoothSerial.h" //Biblioteca bluetooth ESP32.
 
 BluetoothSerial SerialBT; //Variavel Bluetooth.
 RockyMotors motors; //Variavel motores Rocky.
@@ -42,7 +42,7 @@ void loop() { //Config que vai ficar repetindo.
       Tdireita(); //...vai para tras direita.
     }
     else { //Se o app nao mandar nada...
-      parado(); ///fica parado.
+      parado(); //fica parado.
     }
   }
 }
