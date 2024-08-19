@@ -12,7 +12,7 @@ BlackBoard Rocky
 
 DC motor and wheel
 
-![Imagem do WhatsApp de 2024-08-19 à(s) 14 34 55_3a97e904](https://github.com/user-attachments/assets/363bd8e1-1217-4019-81cd-1dd3b9dd7e39)
+![ei_1724088677190-removebg-preview (1)](https://github.com/user-attachments/assets/106c4e54-8a53-4fce-95b2-584c28984025)
 
 Circuit YanBotRocky
 
